@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Header=()=>{
+const Header=(props)=>{
     return(
         <div className="jumbotron py-5">
             <h1 className="display-1"><span class="material-icons brand-icon">fastfood</span>Food Recipes</h1>
             <div class="input-group w-50 mx-auto">
-                <input type="text" placeholder="Find Your recipes..." class="form-control" /> 
+                <input type="text" placeholder="Find Your recipes..." value={props.search} onChange={props.onInputChange} class="form-control" /> 
                 <div class="input-group-append">
                 <button className="btn btn-dark">Search Recipes</button>
                 </div>
