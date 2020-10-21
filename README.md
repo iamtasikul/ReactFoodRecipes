@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live URL:  (https://iamtasikul.github.io/ReactFoodRecipes/)
+
 ## Available Scripts
 
 In the project directory, you can run:
