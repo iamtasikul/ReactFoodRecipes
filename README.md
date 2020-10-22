@@ -1,7 +1,7 @@
 
 Live URL:  (https://iamtasikul.github.io/ReactFoodRecipes/)
 
-![Preview Image] (https://ibb.co/qCM7hdR)
+![Preview Image](https://ibb.co/qCM7hdR)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
